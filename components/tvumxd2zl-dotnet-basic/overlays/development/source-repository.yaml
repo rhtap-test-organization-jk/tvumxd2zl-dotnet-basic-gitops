@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tvumxd2zl-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/tvumxd2zl-dotnet-basic
